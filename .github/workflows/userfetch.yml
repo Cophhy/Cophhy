@@ -1,13 +1,14 @@
+name: userfetch
+
 on:
   push:
     branches: [main]
   workflow_dispatch:
   schedule:
-    # every day
     - cron:  '0 0 * * *'
 
 jobs:
-  sample_job:
+  userfetch:
     runs-on: ubuntu-latest
     steps:
       - name: setup
@@ -16,11 +17,17 @@ jobs:
       - name: userfetch
         uses: userfetch/userfetch-action@v1.1
         with:
-          # path is relative to project root
-          config: 'path/to/config.mjs'   # input
-          svg: 'path/to/card.svg'        # output
+          config: 'userfetch/config.mjs'
+          svg: 'userfetch/info.svg'
         env:
-          # the token you created in step 2
+          github_token: ${{ secrets.GH_PAT }}
+
+      - name: userfetch
+        uses: userfetch/userfetch-action@v1.1
+        with:
+          config: 'userfetch/config_light.mjs'
+          svg: 'userfetch/info_light.svg'
+        env:
           github_token: ${{ secrets.GH_PAT }}
 
       - name: commit

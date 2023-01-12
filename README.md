@@ -13,19 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 title="hehehe"> Hey 👋, I'm Brendha!</h3>
-
-<a href="https://www.linkedin.com/in/brendha-gruber/">
-  
+<a href="https://www.linkedin.com/in/brendha-gruber/">  
   <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/new-game-computer-crash.gif" width="350" height="170" />
-  
 </a>
-
 <br />
 <br />
 A Computer Engineering Student 🚀 from Brazil.
 
 **About Me!**
-
+- 🔭 I’m currently working 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact
 
 
 **Languages and Tools**  

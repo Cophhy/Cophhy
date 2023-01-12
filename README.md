@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cophhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg)

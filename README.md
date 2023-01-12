@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/brendha-gruber/">
   
-  <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/new-game-computer-crash.gif" />
+  <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/new-game-computer-crash.gif" width="350" height="170" />
   
 </a>
 

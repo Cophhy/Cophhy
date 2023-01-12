@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cophhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
+![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)

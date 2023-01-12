@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <!--
 **Cophhy/Cophhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on asdasd
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 title="hehehe"> Hey 👋, I'm Brendha!</h3>
+
+<a href="https://www.linkedin.com/in/brendha-gruber/">
+  
+  <img align="right" alt="GIF" src="https://tenor.com/view/new-game-computer-crash-programming-crash-gif-20505602" />
+  
+</a>
+
+<br />
+<br />
+A Computer Engineering Student 🚀 from Brazil.
+
+**About Me!**
+
+
+
+**Languages and Tools**  
+
+
+
 <div>
 <a href="https://github.com/Cophhy">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=tokyonight"/>

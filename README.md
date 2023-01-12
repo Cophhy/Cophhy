@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm Brendha!</h3>
 <a href="https://www.linkedin.com/in/brendha-gruber/">  
-  <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/new-game-computer-crash.gif" width="350" height="170" />
+  <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/new-game-computer-crash.gif" width="420" />
 </a>
 
 A Computer Engineering Student 🚀 from Brazil.
@@ -36,8 +36,8 @@ A Computer Engineering Student 🚀 from Brazil.
 
 <div>
 <a href="https://github.com/Cophhy">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cophhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="right" height="175em" src="https://github-readme-stats.vercel.app/api?username=Cophhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)

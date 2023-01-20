@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 A Computer Engineering Student 🚀 from Brazil.
 
 **About Me!**
-- 🔭 I’m currently learning game dev
+- 🔭 I’m currently learning game dev.
 - 💬  Ask me about anything. Always trying to help!
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendha-gruber/) 

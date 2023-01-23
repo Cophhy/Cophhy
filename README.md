@@ -29,7 +29,7 @@ A Computer Engineering Student 🚀 from Brazil.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brendhaiara7@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cophhy/)
 
-**Languages and Tools**  
+**Languages and Tools **  
  
 <p align="left">
   <a href="https://skillicons.dev">

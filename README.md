@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 A Computer Engineering Student 🚀 from Brazil.
 
 **About Me!**
-- 🔭 I’m currently learning game dev.
+- 🔭 I’m currently learning game dev and AI.
 - 💬  Ask me about anything. Always trying to help!
 - 😄 Pronouns: she/her.
 - 📫 How to reach me: 

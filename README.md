@@ -33,7 +33,7 @@ A Computer Engineering Student 🚀 from Brazil.
  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,cpp,arduino,raspberrypi,autocad,unity,unreal,blender&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,arduino,raspberrypi,docker,unity,unreal,blender&perline=3" />
   </a>
 </p>
 

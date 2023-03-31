@@ -44,3 +44,4 @@ Languages and Tools
 </div>
 
 ![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pacGif.gif" width="300" />

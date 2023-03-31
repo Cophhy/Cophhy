@@ -37,17 +37,19 @@ Languages and Tools
   </a>
 </p>
 
-<div>
-<a href="https://github.com/Cophhy">
-<img align="left" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="290" />
- <p align="right">
-  <a>
-    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark"/>
+
+<div align="center">
+  <a href="https://github.com/Cophhy">
+    <img align="left" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="290" />
+  </a>
+  <a href="https://github.com/Cophhy">
     <img align="right" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </a>
-</p>
-
+  <a href="https://github.com/Cophhy">
+    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
 </div>
+
 
 ![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   

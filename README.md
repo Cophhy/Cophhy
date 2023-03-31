@@ -50,7 +50,7 @@ Languages and Tools
       </a>
       <br />
       <a href="https://github.com/Cophhy">
-        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark" />
+        <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark" />
       </a>
     </td>
   </tr>

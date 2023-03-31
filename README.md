@@ -39,7 +39,7 @@ Languages and Tools
 
 <div>
 <a href="https://github.com/Cophhy">
-<img align="left" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="250" />
+<img align="left" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="290" />
  <p align="right">
   <a>
     <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark"/>

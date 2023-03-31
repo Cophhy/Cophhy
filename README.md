@@ -41,16 +41,16 @@ Languages and Tools
   <tr>
     <td>
       <a href="https://github.com/Cophhy">
-        <img alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="300" />
+        <img align="center" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="300" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Cophhy">
-        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+        <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
       </a>
       <br />
       <a href="https://github.com/Cophhy">
-        <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark" />
+        <img align="center" height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark" />
       </a>
     </td>
   </tr>

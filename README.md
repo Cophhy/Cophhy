@@ -41,7 +41,7 @@ Languages and Tools
   <tr>
     <td>
       <a href="https://github.com/Cophhy">
-        <img alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="290" />
+        <img alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="300" />
       </a>
     </td>
     <td>

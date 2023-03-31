@@ -39,11 +39,11 @@ Languages and Tools
 
 <div>
 <a href="https://github.com/Cophhy">
-<img align="left" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pacGif.gif" width="300" />
+<img align="left" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pacGif.gif" width="250" />
  <p align="right">
   <a>
-    <img height="100em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img align="right" height="100em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="right" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 

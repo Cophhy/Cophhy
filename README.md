@@ -41,7 +41,7 @@ Languages and Tools
   <a href="https://github.com/Cophhy">
     <img alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="290" style="margin-right: 10px;" />
   </a>
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
     <a href="https://github.com/Cophhy">
       <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" style="margin-bottom: 10px;" />
     </a>
@@ -50,19 +50,6 @@ Languages and Tools
     </a>
   </div>
 </div>
- 
- <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/Cophhy">
-    <img alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/pactools.gif" width="290" style="margin-right: 10px;" />
-  </a>
-  <div style="display: flex; flex-direction: column; align-items: flex-start;">
-    <a href="https://github.com/Cophhy">
-      <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" style="margin-bottom: 10px;" />
-    </a>
-    <a href="https://github.com/Cophhy">
-      <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark" />
-    </a>
-  </div>
-</div>
+
 ![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   

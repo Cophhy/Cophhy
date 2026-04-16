@@ -57,4 +57,3 @@ Languages and Tools
 </table>
 
 ![snake gif](https://github.com/Cophhy/Cophhy/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-  

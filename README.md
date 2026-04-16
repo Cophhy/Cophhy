@@ -46,11 +46,11 @@ Languages and Tools
     </td>
     <td>
       <a href="https://github.com/Cophhy">
-        <img height="170em" src="https://github-readme-stats.hackclub.dev/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+        <img height="170em" src="https://github-readme-stats.hackclub.dev/api?username=Cophhy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&v=2" />
       </a>
       <br />
       <a href="https://github.com/Cophhy">
-        <img align="center" height="170em" src="https://github-readme-stats-brendhas-projects-4c313dc5.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark" />
+        <img align="center" height="170em" src="https://github-readme-stats-brendhas-projects-4c313dc5.vercel.app/api/top-langs/?username=Cophhy&layout=compact&langs_count=7&theme=github_dark&v=2" />
       </a>
     </td>
   </tr>

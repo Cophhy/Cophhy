@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://github.com/Cophhy/Cophhy/blob/main/new-game-computer-crash.gif" width="440" />
 </a>
 
-A Computer Engineering Student 🚀 from Brazil.
+A Computer Engineer 🚀 from Brazil.
 
 **About Me!**
 - 🔭 I’m currently learning game dev and AI.
